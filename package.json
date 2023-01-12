@@ -1,0 +1,19 @@
+{
+  "name": "koishi-plugin-5k",
+  "version": "1.0.0",
+  "description": "5000兆円欲しい！图片生成器",
+  "main": "lib/index.js",
+  "repository": "https://github.com/Anillc/koishi-plugin-5k.git",
+  "author": "Anillc <void@anillc.cn>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "koishi": "^4.11.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.4"
+  }
+}
