@@ -1,6 +1,6 @@
 {
   "name": "koishi-plugin-5k",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "5000兆円欲しい！图片生成器",
   "main": "lib/index.js",
   "repository": "https://github.com/Anillc/koishi-plugin-5k.git",
